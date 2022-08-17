@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Siddy098
 - 👀 I’m interested in developing web apps
-- 🌱 I’m currently learning full stack development
+- 🌱 I’m currently learning how to build block chain apps.
 - 💞️ I’m looking to collaborate on website building.
 - 📫 How to reach me : akundisiddartha@gmail.com
 
